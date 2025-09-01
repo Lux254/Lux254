@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **school searching Website**  
+- 🔭 I’m currently working on **school searching Website, in alignment with SDG 4**  
 - 🌱 I’m learning **JavaScript (ES6+), Responsive Design, and Data Analysis with Python**  
 - 👯 I’m looking to collaborate on **frontend projects and beginner-friendly data analytics projects**  
 - 📫 Reach me at **shadrackohungo@gmail.com**  
